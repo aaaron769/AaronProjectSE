@@ -11,5 +11,6 @@ public class MyClass {
 	}
 class Habtom{
 		private Habtom atom;
+		private String abc;
 }
 }
